@@ -39,4 +39,4 @@ Check out the deployed app here: [Note Taker](https://sheltered-garden-29553.her
 
 ### Contact
 
-[Kara Krzystan on GitHub](http://github.com/BrennonSullivan)
+[Brennon Sullivan on GitHub](http://github.com/BrennonSullivan)
