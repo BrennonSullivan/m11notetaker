@@ -131,8 +131,9 @@ const renderNoteList = async (notes) => {
     liEl.classList.add('list-group-item');
 
     const spanEl = document.createElement('span');
+    const view = document.querySelectorAll('.list-group-item');
     spanEl.innerText = text;
-    spanEl.addEventListener('click', handleNoteView);
+    view.addEventListener('click', handleNoteView);
 
     liEl.append(spanEl);
 
